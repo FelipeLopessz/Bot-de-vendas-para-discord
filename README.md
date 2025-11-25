@@ -1,8 +1,9 @@
 # Template de Bot de Vendas para Discord (com Verificação Manual)
 
 <p align="center">
-  <img src="" alt="Prévia do Bot de Vendas">
+  <img src="https://private-user-images.githubusercontent.com/246140774/518838666-b5973c1a-542e-43cf-a019-5810bd10d866.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQxMDE2MjIsIm5iZiI6MTc2NDEwMTMyMiwicGF0aCI6Ii8yNDYxNDA3NzQvNTE4ODM4NjY2LWI1OTczYzFhLTU0MmUtNDNjZi1hMDE5LTU4MTBiZDEwZDg2Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTEyNVQyMDA4NDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MWQ5NWViZjE4NDEzOGYxM2ZhNWExNzJmNTEzMDcwZDkzNWQ4ZjhmZjkyNTMzNGE2MWExZWY3ZTgyOWEzN2QzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.QGdAZdgKd-bTlgu2KphtiwQoiGKpSB_q-lRr88V--vg" width="50%">
 </p>
+
 
 
 
