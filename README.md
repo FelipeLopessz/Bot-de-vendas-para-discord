@@ -90,3 +90,7 @@ Aqui você define o que acontece **depois** que uma compra é aprovada.
     - Se **aprovado**, o bot envia o produto e o cargo para o cliente.
     - Se **recusado**, o bot informa ao cliente que a compra não foi aprovada.
 
+
+IMPORTANTE
+## Processo de desenvolvimento
+Este projeto foi desenvolvido por mim com apoio de ferramentas de IA para pesquisa, revisão de código e aceleração do aprendizado. Todo o código foi estudado, testado e compreendido.
